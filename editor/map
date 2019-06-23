@@ -1,0 +1,10 @@
+vertex	48	152
+vertex	108	104
+vertex	148	196
+vertex	80	248
+vertex	36	184
+
+sector	0 20	0 1 2 3 4	-1 -1 -1 -1 -1	0 -2 5
+
+player	0 0 0	-1
+
